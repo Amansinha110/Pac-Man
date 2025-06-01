@@ -6,7 +6,8 @@
 
 <p>Pac-Man, originally released in 1980, remains one of the most beloved video games worldwide. Aman set out to recreate this classic, maintaining its nostalgic appeal while integrating modern programming techniques. His goal was to develop a seamless and engaging experience where players navigate Pac-Man through a maze, collect pellets, and evade ghosts.</p>
 
-<a href="https://amansinha110.github.io/Pac-Man/"><img src ="https://github.com/Amansinha110/Pac-Man/blob/master/Screenshot%202025-06-01%20050509.png"><img src="https://github.com/Amansinha110/Pac-Man/blob/master/OIP.jpeg"></a>
+<img src ="https://github.com/Amansinha110/Pac-Man/blob/master/Screenshot%202025-06-01%20050509.png">
+<a href="https://amansinha110.github.io/Pac-Man/"><img src="https://github.com/Amansinha110/Pac-Man/blob/master/OIP.jpeg"></a>
 
 <h1>Click Blue Button For Play</h1>
 
